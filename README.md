@@ -10,7 +10,8 @@ Step4 : initializing git in your local folder
 Step5 : to check the status of files (untracked files comes in red/ tracked files comes in green)
     - `git status`
 Step6 : to move file from untrack files to track files
-    - `git add .` or `git add -A--` to add all files to tracking
+    - `git add .` or `git add -A` --
+     to add all files to tracking
     - `git add <file-name>` -- to add specific file to tracking
     - `git add .csv` -- to add all csv files to tracking
     - let suppose you want to move files from tracking to untrack.
