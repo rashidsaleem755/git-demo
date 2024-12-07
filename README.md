@@ -1,5 +1,6 @@
 # git-demo
 
+## first time
 step1 : created a repo on github account
 step2 : created a same name folder in local pc
 step3 : create any file in that folder for versioning
@@ -22,3 +23,8 @@ Step9 : to set the origin for you local repo for github repo.
     - `git remote add origin https://github.com/rashidsaleem755/git-demo.git`
 Step10 : to push files from local to github repo
     - `git push -u origin main`
+
+## second time
+step1 : `git add README.md`
+Step2 : `git commit -m "second commit"`
+Step3 : `git push -u origin main`
