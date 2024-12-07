@@ -28,4 +28,10 @@
 - step1 : `git add README.md`
 - Step2 : `git commit -m "second commit"`
 - Step3 : `git push -u origin main`
- 
+
+## Branching
+- step1 : to check on which branch you are
+    - `git branch`
+- step2 : to create and move to new branch
+    - `git checkout -b task/development-branch`
+    - if branch already exist -- `git checkout task/development-branch`
