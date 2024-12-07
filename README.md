@@ -40,7 +40,7 @@
 - task/development-branch
 	- branchibg code push
 	
-pull request to balance
+- pull request to balance
 	- main & task/development-branch
 	- NOTE: pull request always balance git remote branches
 	
